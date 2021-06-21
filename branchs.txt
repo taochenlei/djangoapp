@@ -1,1 +1,4 @@
-official/app1 -> default app
+official/app1 -> default app called mysite1
+
+official/mysite1 -> first site playground called mysite1 -> copy parent from official/app1
+
